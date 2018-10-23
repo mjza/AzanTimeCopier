@@ -6,4 +6,8 @@
 
 3-Create a user with name `admin` and password `x123456`
 
-4-run the application.
+4-Extract the sqlite zipped database file and update its name in the source code 
+
+5-run the application.
+
+Data will transfer from SQLite to MySQL
